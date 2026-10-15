@@ -1,0 +1,44 @@
+{
+  "name": "ishraqa",
+  "version": "0.1.0",
+  "description": "Ishraqa Daily in your terminal: today's quote, phenomenon and article, plus your developer clubs, boards and weekly standup.",
+  "keywords": [
+    "ishraqa",
+    "cli",
+    "daily",
+    "quotes",
+    "developers",
+    "standup",
+    "terminal"
+  ],
+  "homepage": "https://ishraqa.app",
+  "bugs": {
+    "url": "https://github.com/ishraqa-app/ishraqa-cli/issues",
+    "email": "hello@ishraqa.app"
+  },
+  "license": "MIT",
+  "author": "OtwoX <hello@ishraqa.app>",
+  "type": "module",
+  "bin": {
+    "ishraqa": "bin/ishraqa.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "start": "node bin/ishraqa.js",
+    "test": "node --test",
+    "smoke": "node bin/ishraqa.js today && node bin/ishraqa.js phenomenon --tomorrow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishraqa-app/ishraqa-cli.git"
+  }
+}
