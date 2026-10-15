@@ -1,3 +1,7 @@
+<p align="center"><img src=".github/assets/banner.png" alt="ishraqa" width="100%"></p>
+
+[![npm](https://img.shields.io/npm/v/ishraqa?color=F07A4A)](https://www.npmjs.com/package/ishraqa) [![Built with Ishraqa](https://img.shields.io/badge/Built%20with-Ishraqa-F07A4A?style=flat)](https://ishraqa.app)
+
 # ishraqa
 
 **Ishraqa Daily (إشراقة يومية) in your terminal.** Start the day with the daily quote, the phenomenon of the day and the article of the day. If you are in a developers club, you can also check your team's board and post your weekly standup without leaving the shell.
