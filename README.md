@@ -1,6 +1,6 @@
 <p align="center"><img src=".github/assets/banner.png" alt="ishraqa" width="100%"></p>
 
-[![npm](https://img.shields.io/npm/v/ishraqa?color=F07A4A)](https://www.npmjs.com/package/ishraqa) [![Built with Ishraqa](https://img.shields.io/badge/Built%20with-Ishraqa-F07A4A?style=flat)](https://ishraqa.app)
+[![Built with Ishraqa](https://img.shields.io/badge/Built%20with-Ishraqa-F07A4A?style=flat)](https://ishraqa.app)
 
 # ishraqa
 
