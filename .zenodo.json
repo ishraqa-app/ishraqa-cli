@@ -1,0 +1,10 @@
+{
+  "title": "ishraqa-cli: Ishraqa Daily in your terminal",
+  "upload_type": "software",
+  "description": "<p>Command-line client for Ishraqa Daily: today's quote, phenomenon and article, plus developer clubs, boards and weekly standups, from the terminal.</p>",
+  "license": "MIT",
+  "keywords": ["cli", "developers", "knowledge", "open source"],
+  "creators": [
+    {"name": "Ahmed, Saifuddin", "orcid": "0009-0007-9719-7258", "affiliation": "OtwoX"}
+  ]
+}
