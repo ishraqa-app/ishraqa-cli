@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ishraqa-cli: Ishraqa Daily in your terminal"
+type: software
+license: MIT
+repository-code: "https://github.com/ishraqa-app/ishraqa-cli"
+url: "https://ishraqa.app"
+keywords: [cli, developers, knowledge, open source]
+authors:
+  - given-names: Saifuddin
+    family-names: Ahmed
+    orcid: "https://orcid.org/0009-0007-9719-7258"
+    affiliation: "OtwoX"
+version: "0.1.1"
+date-released: "2026-10-28"
