@@ -4,6 +4,8 @@
 
 # ishraqa
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23737414.svg)](https://doi.org/10.5281/zenodo.23737414)
+
 **Ishraqa Daily (إشراقة يومية) in your terminal.** Start the day with the daily quote, the phenomenon of the day and the article of the day. If you are in a developers club, you can also check your team's board and post your weekly standup without leaving the shell.
 
 ```sh
